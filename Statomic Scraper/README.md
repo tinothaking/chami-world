@@ -33,6 +33,9 @@ generate('Luis Diaz')
 ## This generates the following:
 https://i.ibb.co/3v3YZTf/Luis-Diaz-Plot.png
 
+## Here's a video of the tool in action
+https://streamable.com/w7v50n
+
 ## Future of this project
 
 This project was made as a fun side project during my midyear break in my first year of university.
