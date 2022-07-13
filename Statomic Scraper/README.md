@@ -1,4 +1,4 @@
-# Statomic Scraper
+## Statomic Scraper
 
 Statomic Scraper is a tool that makes use of various python libraries to scrape data from
 football statistics website fbref.com in order to generate player radar charts, based on user input
