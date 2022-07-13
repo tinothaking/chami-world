@@ -7,6 +7,20 @@ football statistics website fbref.com in order to generate player radar charts, 
 
 Import all the files in the directory and run as shown below
 
+## Install necessary libraries
+
+```bash
+pip install googlesearch-python
+```
+
+```bash
+pip install pandas
+```
+
+```bash
+pip install matplotlib
+```
+
 ## Usage
 
 ```python
